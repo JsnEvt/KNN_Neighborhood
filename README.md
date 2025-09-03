@@ -60,11 +60,11 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 3. Execução:
-  Certifique-se de ter a extensão Jupyter instalada no VS Code.
+    Certifique-se de ter a extensão Jupyter instalada no VS Code.
 
-  Abra o arquivo KNN_Vizinhanca.ipynb.
+    Abra o arquivo KNN_Vizinhanca.ipynb.
 
-  Clique em Run All ou execute célula por célula.
+    Clique em Run All ou execute célula por célula.
 
 ## 📜 Licença
 
