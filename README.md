@@ -21,6 +21,19 @@ O **KNN** é amplamente utilizado em:
 - Diagnósticos médicos baseados em características de pacientes  
 
 ---
+🛠️ Tecnologias Utilizadas
+
+Python 3
+
+Jupyter Notebook
+
+Pandas (tratamento de dados)
+
+NumPy (operações numéricas)
+
+Scikit-learn (implementação do KNN e métricas de avaliação)
+
+Matplotlib / Seaborn (visualizações)
 
 ## 🚀 Como Executar no VS Code
 
@@ -47,7 +60,13 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 3. Execução:
-Certifique-se de ter a extensão Jupyter instalada no VS Code.
-Abra o arquivo KNN_Vizinhanca.ipynb.
+  Certifique-se de ter a extensão Jupyter instalada no VS Code.
 
-Clique em Run All ou execute célula por célula.
+  Abra o arquivo KNN_Vizinhanca.ipynb.
+
+  Clique em Run All ou execute célula por célula.
+
+## 📜 Licença
+
+Este projeto é apenas para fins educacionais, seguindo o curso da Udemy.
+Sinta-se livre para usar como base para estudos.
